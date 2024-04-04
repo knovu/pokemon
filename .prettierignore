@@ -1,0 +1,8 @@
+# Directories
+.next/
+dist/
+node_modules/
+.pnpm-store/
+
+# Testing
+coverage
