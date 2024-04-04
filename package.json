@@ -1,11 +1,10 @@
 {
   "name": "pokemon",
-  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "src/main.ts",
   "scripts": {
-    "start": "pnpm ts-node --esm src/main.ts",
+    "start": "pnpm ts-node src/main.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
